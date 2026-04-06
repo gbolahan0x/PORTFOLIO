@@ -1,4 +1,4 @@
-Sitelive: https://gbolahan0x.github.io/PORTFOLIO/
+Site live: https://gbolahan0x.github.io/PORTFOLIO/
 # Hi, I'm Gbolahan 👋🏾
 
 > Backend Engineer · Full-Stack Developer · QA/SDET · Creative Coder · Lagos, Nigeria
